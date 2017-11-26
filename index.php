@@ -27,24 +27,24 @@ include ('include/config.php');
 						<section>
 							<span class="icon major fa-bolt accent2"></span>
 							<h3>Discos</h3>
-							<p>Para que tengas un tiempo ameno con familiares y amigos </p>
+							<p>¡Sal y disfruta de la vida al estilo nica!</p>
 						</section>
 						<section>
 							<span class="icon major fa-area-chart accent3"></span>
 							<h3>Comedores</h3>
-							<p>Con los mejores platillos nacionales e Internacionales.</p>
+							<p>Deleitate con los exquisitos platillos nicaraguenses</p>
 						</section>
 					</div>
 					<div class="features-row">
 						<section>
 							<span class="icon major fa-cloud accent4"></span>
 							<h3>Paseos Turisticos</h3>
-							<p>Disfruta con tus seres queridos los distintos destinos turisticos que ofrecen.</p>
+							<p>Disfrutá de la gran variedad de destinos turisticos que se te ofrecen</p>
 						</section>
 						<section>
 							<span class="icon major fa-lock accent5"></span>
 							<h3>Hoteles</h3>
-							<p>Visita los Hoteles para que tengas la mayor comodidad posible con tus amigos y pareja.</p>
+							<p>Visitá nuestros hoteles para que tengas la mayor comodidad posible con tus amigos o pareja</p>
 						</section>
 					</div>
 				</section>
@@ -54,20 +54,20 @@ include ('include/config.php');
 .
 						<section class="box special">
 							<span class="image featured"><img src="img/pic02.jpeg" alt="" /></span>
-							<h3>Las mejores playas</h3>
-							<p>Las playas del malecon las mejores playas con la mejor seguridad, el mejor lugar para pasarla en compañia de sus amigos y familiares.</p>
+							<h3>Playas de Bluefields - RACCS</h3>
+							<p>Conocida como Tierra de los Campos Azules, cuenta con una amplia gama de opciones para empaparte de diversión al máximo.</p>
 							<ul class="actions">
 								<li><a href="#" class="button alt">Leer Mas</a></li>
 							</ul>
 						</section>
 						
 					</div>
-					<div class="6u 12u(2)">
+					<div class="6u 12u(3)">
 
 						<section class="box special">
 							<span class="image featured"><img src="img/pic03.jpeg" alt="" /></span>
-							<h3>La Bocana</h3>
-							<p>Con una gran vista las Playas de la Bocana ofrecen un gran clima con una gran vista otra de las maravillas de Puerto Cabezas, no te puedes ir sin visitar nuestos lugares.</p>
+							<h3>Playas de Bilwi - RACCN</h3>
+							<p>Con una vista que enamora, las Playas de Bilwi ofrecen un clima agradable y gran variedad no te puedes ir sin visitar nuestos lugares.</p>
 							<ul class="actions">
 								<li><a href="#" class="button alt">Leer Mas</a></li>
 							</ul>
